@@ -11,3 +11,4 @@
 #做RNN网络时，我效率明显快了很多，把第一个net的代码粘贴一下然后根据循环算法的原理更改一下网络结构就完事了，遇到最大的问题是因为网络的输出有两个量，即output和hidden，在计算loss时显示两个矩阵维度不同，因此无法计算，在搜索加操作一番后，也顺利解决了。
 
 ![Image text](https://github.com/asder463/project_test/blob/main/img/~M%25%401V%25M8%7D%40EW3VP%40TETI2C.png)
+![Image text](https://github.com/asder463/project_test/blob/main/img/EU61%40%7DZS%24Z~1KNQWKN64YV4.png)
