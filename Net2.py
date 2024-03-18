@@ -1,3 +1,5 @@
+#RNN神经网络
+
 #!/usr/bin/env python
 # coding: utf-8
 
